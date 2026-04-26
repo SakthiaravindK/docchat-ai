@@ -1,0 +1,478 @@
+[
+  {
+    "id": "safe_001",
+    "task": "toxicity",
+    "comment": "Thank you for explaining the topic clearly.",
+    "label": "safe",
+    "explanation": "The comment is polite and supportive."
+  },
+  {
+    "id": "safe_002",
+    "task": "toxicity",
+    "comment": "I disagree with this design, but we can improve it.",
+    "label": "safe",
+    "explanation": "The comment gives disagreement without abuse."
+  },
+  {
+    "id": "safe_003",
+    "task": "toxicity",
+    "comment": "Please check the report before sending it.",
+    "label": "safe",
+    "explanation": "The comment is a normal request."
+  },
+  {
+    "id": "safe_004",
+    "task": "toxicity",
+    "comment": "This code has errors and needs more testing.",
+    "label": "safe",
+    "explanation": "The comment criticizes the code, not a person."
+  },
+  {
+    "id": "safe_005",
+    "task": "toxicity",
+    "comment": "Your presentation can be stronger with more examples.",
+    "label": "safe",
+    "explanation": "The comment gives constructive feedback."
+  },
+  {
+    "id": "safe_006",
+    "task": "toxicity",
+    "comment": "I am upset about the delay, but let us solve it.",
+    "label": "safe",
+    "explanation": "The comment expresses frustration without abuse."
+  },
+  {
+    "id": "safe_007",
+    "task": "toxicity",
+    "comment": "The answer is incorrect because the calculation is missing.",
+    "label": "safe",
+    "explanation": "The comment explains a mistake respectfully."
+  },
+  {
+    "id": "safe_008",
+    "task": "toxicity",
+    "comment": "Kindly join the meeting at 10 AM.",
+    "label": "safe",
+    "explanation": "The comment is a neutral instruction."
+  },
+  {
+    "id": "safe_009",
+    "task": "toxicity",
+    "comment": "The project deadline is close, so we must work carefully.",
+    "label": "safe",
+    "explanation": "The comment is work-related and non-toxic."
+  },
+  {
+    "id": "safe_010",
+    "task": "toxicity",
+    "comment": "I do not like this color combination.",
+    "label": "safe",
+    "explanation": "The comment expresses preference without attacking anyone."
+  },
+  {
+    "id": "safe_011",
+    "task": "toxicity",
+    "comment": "This solution is weak, but the idea can be improved.",
+    "label": "safe",
+    "explanation": "The comment is critical but not abusive."
+  },
+  {
+    "id": "safe_012",
+    "task": "toxicity",
+    "comment": "Great effort, please continue practicing.",
+    "label": "safe",
+    "explanation": "The comment is encouraging."
+  },
+  {
+    "id": "toxic_001",
+    "task": "toxicity",
+    "comment": "Nobody wants your useless comments here.",
+    "label": "toxic",
+    "explanation": "The comment is hostile and demeaning."
+  },
+  {
+    "id": "toxic_002",
+    "task": "toxicity",
+    "comment": "You always ruin everything for the team.",
+    "label": "toxic",
+    "explanation": "The comment attacks a person broadly."
+  },
+  {
+    "id": "toxic_003",
+    "task": "toxicity",
+    "comment": "Stop talking because your ideas are worthless.",
+    "label": "toxic",
+    "explanation": "The comment is abusive and dismissive."
+  },
+  {
+    "id": "toxic_004",
+    "task": "toxicity",
+    "comment": "You are a burden to this group.",
+    "label": "toxic",
+    "explanation": "The comment is personally abusive."
+  },
+  {
+    "id": "toxic_005",
+    "task": "toxicity",
+    "comment": "Your presence makes this place worse.",
+    "label": "toxic",
+    "explanation": "The comment targets a person negatively."
+  },
+  {
+    "id": "toxic_006",
+    "task": "toxicity",
+    "comment": "Everyone would be better without your input.",
+    "label": "toxic",
+    "explanation": "The comment is hostile toward the person."
+  },
+  {
+    "id": "toxic_007",
+    "task": "toxicity",
+    "comment": "You should be ashamed of speaking here.",
+    "label": "toxic",
+    "explanation": "The comment shames the person."
+  },
+  {
+    "id": "toxic_008",
+    "task": "toxicity",
+    "comment": "Your work is trash and so are your ideas.",
+    "label": "toxic",
+    "explanation": "The comment is abusive and insulting."
+  },
+  {
+    "id": "toxic_009",
+    "task": "toxicity",
+    "comment": "Get lost, nobody respects you.",
+    "label": "toxic",
+    "explanation": "The comment is hostile and degrading."
+  },
+  {
+    "id": "toxic_010",
+    "task": "toxicity",
+    "comment": "You make every discussion painful.",
+    "label": "toxic",
+    "explanation": "The comment is targeted and negative."
+  },
+  {
+    "id": "severe_001",
+    "task": "toxicity",
+    "comment": "You are completely worthless and should never speak again.",
+    "label": "severe_toxic",
+    "explanation": "The comment is extremely abusive and dehumanizing."
+  },
+  {
+    "id": "severe_002",
+    "task": "toxicity",
+    "comment": "Everyone should treat you like garbage forever.",
+    "label": "severe_toxic",
+    "explanation": "The comment is highly abusive and degrading."
+  },
+  {
+    "id": "severe_003",
+    "task": "toxicity",
+    "comment": "You deserve endless humiliation for this mistake.",
+    "label": "severe_toxic",
+    "explanation": "The comment is intensely hostile."
+  },
+  {
+    "id": "severe_004",
+    "task": "toxicity",
+    "comment": "Your existence in this team is a total disgrace.",
+    "label": "severe_toxic",
+    "explanation": "The comment is extremely personal and abusive."
+  },
+  {
+    "id": "severe_005",
+    "task": "toxicity",
+    "comment": "You are beyond useless and should disappear from this group.",
+    "label": "severe_toxic",
+    "explanation": "The comment is severe personal abuse."
+  },
+  {
+    "id": "severe_006",
+    "task": "toxicity",
+    "comment": "Nobody should ever listen to a person like you.",
+    "label": "severe_toxic",
+    "explanation": "The comment is strongly demeaning."
+  },
+  {
+    "id": "severe_007",
+    "task": "toxicity",
+    "comment": "You are the worst person here and deserve only insults.",
+    "label": "severe_toxic",
+    "explanation": "The comment is extremely insulting."
+  },
+  {
+    "id": "severe_008",
+    "task": "toxicity",
+    "comment": "Your mistake proves you are hopeless forever.",
+    "label": "severe_toxic",
+    "explanation": "The comment is severe and targeted."
+  },
+  {
+    "id": "obscene_001",
+    "task": "toxicity",
+    "comment": "That message contains dirty and vulgar words.",
+    "label": "obscene",
+    "explanation": "The comment includes obscene or vulgar content."
+  },
+  {
+    "id": "obscene_002",
+    "task": "toxicity",
+    "comment": "Do not post filthy adult jokes in this group.",
+    "label": "obscene",
+    "explanation": "The comment refers to obscene content."
+  },
+  {
+    "id": "obscene_003",
+    "task": "toxicity",
+    "comment": "Your reply is full of vulgar language.",
+    "label": "obscene",
+    "explanation": "The comment describes vulgar wording."
+  },
+  {
+    "id": "obscene_004",
+    "task": "toxicity",
+    "comment": "Stop sending dirty comments during class.",
+    "label": "obscene",
+    "explanation": "The comment contains inappropriate obscene context."
+  },
+  {
+    "id": "obscene_005",
+    "task": "toxicity",
+    "comment": "That was a crude and indecent message.",
+    "label": "obscene",
+    "explanation": "The comment is obscene in tone."
+  },
+  {
+    "id": "obscene_006",
+    "task": "toxicity",
+    "comment": "The chat included inappropriate adult language.",
+    "label": "obscene",
+    "explanation": "The comment refers to adult language."
+  },
+  {
+    "id": "obscene_007",
+    "task": "toxicity",
+    "comment": "Please remove that vulgar sentence from the post.",
+    "label": "obscene",
+    "explanation": "The comment contains vulgar context."
+  },
+  {
+    "id": "obscene_008",
+    "task": "toxicity",
+    "comment": "This comment is too filthy for a public forum.",
+    "label": "obscene",
+    "explanation": "The comment includes obscene wording."
+  },
+  {
+    "id": "threat_001",
+    "task": "toxicity",
+    "comment": "I will damage your laptop if you come near my desk.",
+    "label": "threat",
+    "explanation": "The comment threatens property damage."
+  },
+  {
+    "id": "threat_002",
+    "task": "toxicity",
+    "comment": "I will hit you if you speak again.",
+    "label": "threat",
+    "explanation": "The comment threatens physical harm."
+  },
+  {
+    "id": "threat_003",
+    "task": "toxicity",
+    "comment": "I am going to break your phone after class.",
+    "label": "threat",
+    "explanation": "The comment threatens damage."
+  },
+  {
+    "id": "threat_004",
+    "task": "toxicity",
+    "comment": "You will regret it if you report this issue.",
+    "label": "threat",
+    "explanation": "The comment is intimidating and threatening."
+  },
+  {
+    "id": "threat_005",
+    "task": "toxicity",
+    "comment": "I will make sure you are punished badly for this.",
+    "label": "threat",
+    "explanation": "The comment threatens retaliation."
+  },
+  {
+    "id": "threat_006",
+    "task": "toxicity",
+    "comment": "Do not come tomorrow or I will hurt you.",
+    "label": "threat",
+    "explanation": "The comment directly threatens harm."
+  },
+  {
+    "id": "threat_007",
+    "task": "toxicity",
+    "comment": "I will destroy your project files.",
+    "label": "threat",
+    "explanation": "The comment threatens destructive action."
+  },
+  {
+    "id": "threat_008",
+    "task": "toxicity",
+    "comment": "You better stay away or face consequences.",
+    "label": "threat",
+    "explanation": "The comment is a threat."
+  },
+  {
+    "id": "insult_001",
+    "task": "toxicity",
+    "comment": "You are foolish for writing this answer.",
+    "label": "insult",
+    "explanation": "The comment insults the person."
+  },
+  {
+    "id": "insult_002",
+    "task": "toxicity",
+    "comment": "Only an idiot would make this mistake.",
+    "label": "insult",
+    "explanation": "The comment uses insulting language."
+  },
+  {
+    "id": "insult_003",
+    "task": "toxicity",
+    "comment": "Your thinking is childish and silly.",
+    "label": "insult",
+    "explanation": "The comment attacks the person's thinking."
+  },
+  {
+    "id": "insult_004",
+    "task": "toxicity",
+    "comment": "You sound clueless in this discussion.",
+    "label": "insult",
+    "explanation": "The comment insults competence."
+  },
+  {
+    "id": "insult_005",
+    "task": "toxicity",
+    "comment": "That was a dumb response from you.",
+    "label": "insult",
+    "explanation": "The comment directly insults the response and person."
+  },
+  {
+    "id": "insult_006",
+    "task": "toxicity",
+    "comment": "You are lazy and careless.",
+    "label": "insult",
+    "explanation": "The comment insults the person."
+  },
+  {
+    "id": "insult_007",
+    "task": "toxicity",
+    "comment": "Your answer makes you look ignorant.",
+    "label": "insult",
+    "explanation": "The comment is personally insulting."
+  },
+  {
+    "id": "insult_008",
+    "task": "toxicity",
+    "comment": "You behave like a complete fool.",
+    "label": "insult",
+    "explanation": "The comment insults the person's behavior."
+  },
+  {
+    "id": "identity_001",
+    "task": "toxicity",
+    "comment": "People from that religion should not be allowed here.",
+    "label": "identity_hate",
+    "explanation": "The comment attacks a protected religious identity."
+  },
+  {
+    "id": "identity_002",
+    "task": "toxicity",
+    "comment": "That community does not deserve respect.",
+    "label": "identity_hate",
+    "explanation": "The comment targets a protected group."
+  },
+  {
+    "id": "identity_003",
+    "task": "toxicity",
+    "comment": "People of that nationality should be removed from the team.",
+    "label": "identity_hate",
+    "explanation": "The comment attacks nationality."
+  },
+  {
+    "id": "identity_004",
+    "task": "toxicity",
+    "comment": "That ethnic group should never get opportunities.",
+    "label": "identity_hate",
+    "explanation": "The comment attacks ethnicity."
+  },
+  {
+    "id": "identity_005",
+    "task": "toxicity",
+    "comment": "People with that disability are useless.",
+    "label": "identity_hate",
+    "explanation": "The comment attacks disability status."
+  },
+  {
+    "id": "identity_006",
+    "task": "toxicity",
+    "comment": "That gender should not be trusted with work.",
+    "label": "identity_hate",
+    "explanation": "The comment attacks gender identity."
+  },
+  {
+    "id": "identity_007",
+    "task": "toxicity",
+    "comment": "Members of that caste should stay away.",
+    "label": "identity_hate",
+    "explanation": "The comment targets caste identity."
+  },
+  {
+    "id": "identity_008",
+    "task": "toxicity",
+    "comment": "That protected group should not speak in public.",
+    "label": "identity_hate",
+    "explanation": "The comment attacks a protected identity group."
+  },
+  {
+    "id": "edge_001",
+    "task": "toxicity",
+    "comment": "",
+    "label": "safe",
+    "explanation": "No text to analyse."
+  },
+  {
+    "id": "edge_002",
+    "task": "toxicity",
+    "comment": "[WHITESPACE_ONLY_INPUT]",
+    "label": "safe",
+    "explanation": "The input represents whitespace only, so there is no meaningful text to analyse."
+  },
+  {
+    "id": "edge_003",
+    "task": "toxicity",
+    "comment": "நன்றி, உங்கள் உதவி நல்லது.",
+    "label": "unknown",
+    "explanation": "The comment is non-English, so the label is unknown."
+  },
+  {
+    "id": "edge_004",
+    "task": "toxicity",
+    "comment": "तुम्हारा संदेश समझ नहीं आया।",
+    "label": "unknown",
+    "explanation": "The comment is non-English, so the label is unknown."
+  },
+  {
+    "id": "edge_005",
+    "task": "toxicity",
+    "comment": "You are angry 😡😡, but please explain the issue calmly.",
+    "label": "safe",
+    "explanation": "The comment contains emojis but no abuse."
+  },
+  {
+    "id": "edge_006",
+    "task": "toxicity",
+    "comment": "Bad bad bad bad bad, but I am talking about the weather.",
+    "label": "safe",
+    "explanation": "Aggressive-sounding words are not targeted at a person."
+  }
+]

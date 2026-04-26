@@ -1,0 +1,802 @@
+[
+  {
+    "id": "doc_001_qa_01",
+    "task": "document_qa",
+    "doc_title": "AI Internship Notice",
+    "doc": "Daivtech Solutions announced an AI internship program for freshers in Coimbatore. The internship focuses on Python, machine learning, FastAPI, Streamlit, and model evaluation. Selected interns must submit weekly progress reports every Friday.",
+    "q": "Which company announced the AI internship?",
+    "a": "Daivtech Solutions announced the AI internship."
+  },
+  {
+    "id": "doc_001_qa_02",
+    "task": "document_qa",
+    "doc_title": "AI Internship Notice",
+    "doc": "Daivtech Solutions announced an AI internship program for freshers in Coimbatore. The internship focuses on Python, machine learning, FastAPI, Streamlit, and model evaluation. Selected interns must submit weekly progress reports every Friday.",
+    "q": "Where is the internship location?",
+    "a": "The internship location is Coimbatore."
+  },
+  {
+    "id": "doc_001_qa_03",
+    "task": "document_qa",
+    "doc_title": "AI Internship Notice",
+    "doc": "Daivtech Solutions announced an AI internship program for freshers in Coimbatore. The internship focuses on Python, machine learning, FastAPI, Streamlit, and model evaluation. Selected interns must submit weekly progress reports every Friday.",
+    "q": "What technologies are covered in the internship?",
+    "a": "The internship covers Python, machine learning, FastAPI, Streamlit, and model evaluation."
+  },
+  {
+    "id": "doc_001_qa_04",
+    "task": "document_qa",
+    "doc_title": "AI Internship Notice",
+    "doc": "Daivtech Solutions announced an AI internship program for freshers in Coimbatore. The internship focuses on Python, machine learning, FastAPI, Streamlit, and model evaluation. Selected interns must submit weekly progress reports every Friday.",
+    "q": "When should interns submit progress reports?",
+    "a": "Interns should submit weekly progress reports every Friday."
+  },
+  {
+    "id": "doc_001_qa_05",
+    "task": "document_qa",
+    "doc_title": "AI Internship Notice",
+    "doc": "Daivtech Solutions announced an AI internship program for freshers in Coimbatore. The internship focuses on Python, machine learning, FastAPI, Streamlit, and model evaluation. Selected interns must submit weekly progress reports every Friday.",
+    "q": "Who is the internship mainly for?",
+    "a": "The internship is mainly for freshers."
+  },
+  {
+    "id": "doc_002_qa_01",
+    "task": "document_qa",
+    "doc_title": "Library Membership Rules",
+    "doc": "The Green City Library allows members to borrow six books at a time. Books must be returned within fifteen days. A late fee of three rupees per book is charged for every delayed day.",
+    "q": "How many books can a member borrow?",
+    "a": "A member can borrow six books at a time."
+  },
+  {
+    "id": "doc_002_qa_02",
+    "task": "document_qa",
+    "doc_title": "Library Membership Rules",
+    "doc": "The Green City Library allows members to borrow six books at a time. Books must be returned within fifteen days. A late fee of three rupees per book is charged for every delayed day.",
+    "q": "What is the return period for borrowed books?",
+    "a": "Books must be returned within fifteen days."
+  },
+  {
+    "id": "doc_002_qa_03",
+    "task": "document_qa",
+    "doc_title": "Library Membership Rules",
+    "doc": "The Green City Library allows members to borrow six books at a time. Books must be returned within fifteen days. A late fee of three rupees per book is charged for every delayed day.",
+    "q": "What is the late fee?",
+    "a": "The late fee is three rupees per book for every delayed day."
+  },
+  {
+    "id": "doc_002_qa_04",
+    "task": "document_qa",
+    "doc_title": "Library Membership Rules",
+    "doc": "The Green City Library allows members to borrow six books at a time. Books must be returned within fifteen days. A late fee of three rupees per book is charged for every delayed day.",
+    "q": "What is the name of the library?",
+    "a": "The name of the library is Green City Library."
+  },
+  {
+    "id": "doc_002_qa_05",
+    "task": "document_qa",
+    "doc_title": "Library Membership Rules",
+    "doc": "The Green City Library allows members to borrow six books at a time. Books must be returned within fifteen days. A late fee of three rupees per book is charged for every delayed day.",
+    "q": "What happens if books are returned late?",
+    "a": "A late fee is charged for every delayed day."
+  },
+  {
+    "id": "doc_003_qa_01",
+    "task": "document_qa",
+    "doc_title": "Python Course Outline",
+    "doc": "The Python beginner course starts with variables, data types, and operators. Later modules explain loops, functions, lists, dictionaries, file handling, and simple automation projects. The course ends with a mini project.",
+    "q": "What topics are taught first in the Python course?",
+    "a": "Variables, data types, and operators are taught first."
+  },
+  {
+    "id": "doc_003_qa_02",
+    "task": "document_qa",
+    "doc_title": "Python Course Outline",
+    "doc": "The Python beginner course starts with variables, data types, and operators. Later modules explain loops, functions, lists, dictionaries, file handling, and simple automation projects. The course ends with a mini project.",
+    "q": "Which data structures are mentioned?",
+    "a": "Lists and dictionaries are mentioned."
+  },
+  {
+    "id": "doc_003_qa_03",
+    "task": "document_qa",
+    "doc_title": "Python Course Outline",
+    "doc": "The Python beginner course starts with variables, data types, and operators. Later modules explain loops, functions, lists, dictionaries, file handling, and simple automation projects. The course ends with a mini project.",
+    "q": "What does the course end with?",
+    "a": "The course ends with a mini project."
+  },
+  {
+    "id": "doc_003_qa_04",
+    "task": "document_qa",
+    "doc_title": "Python Course Outline",
+    "doc": "The Python beginner course starts with variables, data types, and operators. Later modules explain loops, functions, lists, dictionaries, file handling, and simple automation projects. The course ends with a mini project.",
+    "q": "Does the course include file handling?",
+    "a": "Yes, the course includes file handling."
+  },
+  {
+    "id": "doc_003_qa_05",
+    "task": "document_qa",
+    "doc_title": "Python Course Outline",
+    "doc": "The Python beginner course starts with variables, data types, and operators. Later modules explain loops, functions, lists, dictionaries, file handling, and simple automation projects. The course ends with a mini project.",
+    "q": "What type of projects are included?",
+    "a": "Simple automation projects are included."
+  },
+  {
+    "id": "doc_004_qa_01",
+    "task": "document_qa",
+    "doc_title": "Cricket Tournament Rules",
+    "doc": "The local cricket tournament follows a ten-over format. Each team can play eleven players. A bowler can bowl a maximum of two overs. Wide balls and no balls add one extra run to the batting team.",
+    "q": "How many overs are played in each match?",
+    "a": "Each match follows a ten-over format."
+  },
+  {
+    "id": "doc_004_qa_02",
+    "task": "document_qa",
+    "doc_title": "Cricket Tournament Rules",
+    "doc": "The local cricket tournament follows a ten-over format. Each team can play eleven players. A bowler can bowl a maximum of two overs. Wide balls and no balls add one extra run to the batting team.",
+    "q": "How many players can each team play?",
+    "a": "Each team can play eleven players."
+  },
+  {
+    "id": "doc_004_qa_03",
+    "task": "document_qa",
+    "doc_title": "Cricket Tournament Rules",
+    "doc": "The local cricket tournament follows a ten-over format. Each team can play eleven players. A bowler can bowl a maximum of two overs. Wide balls and no balls add one extra run to the batting team.",
+    "q": "How many overs can one bowler bowl?",
+    "a": "A bowler can bowl a maximum of two overs."
+  },
+  {
+    "id": "doc_004_qa_04",
+    "task": "document_qa",
+    "doc_title": "Cricket Tournament Rules",
+    "doc": "The local cricket tournament follows a ten-over format. Each team can play eleven players. A bowler can bowl a maximum of two overs. Wide balls and no balls add one extra run to the batting team.",
+    "q": "What happens for wide balls?",
+    "a": "Wide balls add one extra run to the batting team."
+  },
+  {
+    "id": "doc_004_qa_05",
+    "task": "document_qa",
+    "doc_title": "Cricket Tournament Rules",
+    "doc": "The local cricket tournament follows a ten-over format. Each team can play eleven players. A bowler can bowl a maximum of two overs. Wide balls and no balls add one extra run to the batting team.",
+    "q": "What happens for no balls?",
+    "a": "No balls add one extra run to the batting team."
+  },
+  {
+    "id": "doc_005_qa_01",
+    "task": "document_qa",
+    "doc_title": "Mobile Store Offer",
+    "doc": "Star Mobile Store offers a festival discount on smartphones above twenty thousand rupees. Customers receive free screen protection and a one-year service coupon. The offer is valid only until the last day of the month.",
+    "q": "Which store gives the offer?",
+    "a": "Star Mobile Store gives the offer."
+  },
+  {
+    "id": "doc_005_qa_02",
+    "task": "document_qa",
+    "doc_title": "Mobile Store Offer",
+    "doc": "Star Mobile Store offers a festival discount on smartphones above twenty thousand rupees. Customers receive free screen protection and a one-year service coupon. The offer is valid only until the last day of the month.",
+    "q": "What products are covered by the offer?",
+    "a": "Smartphones above twenty thousand rupees are covered."
+  },
+  {
+    "id": "doc_005_qa_03",
+    "task": "document_qa",
+    "doc_title": "Mobile Store Offer",
+    "doc": "Star Mobile Store offers a festival discount on smartphones above twenty thousand rupees. Customers receive free screen protection and a one-year service coupon. The offer is valid only until the last day of the month.",
+    "q": "What free item do customers receive?",
+    "a": "Customers receive free screen protection."
+  },
+  {
+    "id": "doc_005_qa_04",
+    "task": "document_qa",
+    "doc_title": "Mobile Store Offer",
+    "doc": "Star Mobile Store offers a festival discount on smartphones above twenty thousand rupees. Customers receive free screen protection and a one-year service coupon. The offer is valid only until the last day of the month.",
+    "q": "What coupon is included?",
+    "a": "A one-year service coupon is included."
+  },
+  {
+    "id": "doc_005_qa_05",
+    "task": "document_qa",
+    "doc_title": "Mobile Store Offer",
+    "doc": "Star Mobile Store offers a festival discount on smartphones above twenty thousand rupees. Customers receive free screen protection and a one-year service coupon. The offer is valid only until the last day of the month.",
+    "q": "How long is the offer valid?",
+    "a": "The offer is valid until the last day of the month."
+  },
+  {
+    "id": "doc_006_qa_01",
+    "task": "document_qa",
+    "doc_title": "Bank Account Update",
+    "doc": "Customers of River Bank must update their mobile number before using the new UPI security feature. The update can be completed through internet banking or by visiting the nearest branch. The bank does not charge any fee for this update.",
+    "q": "Which bank issued the update?",
+    "a": "River Bank issued the update."
+  },
+  {
+    "id": "doc_006_qa_02",
+    "task": "document_qa",
+    "doc_title": "Bank Account Update",
+    "doc": "Customers of River Bank must update their mobile number before using the new UPI security feature. The update can be completed through internet banking or by visiting the nearest branch. The bank does not charge any fee for this update.",
+    "q": "What should customers update?",
+    "a": "Customers should update their mobile number."
+  },
+  {
+    "id": "doc_006_qa_03",
+    "task": "document_qa",
+    "doc_title": "Bank Account Update",
+    "doc": "Customers of River Bank must update their mobile number before using the new UPI security feature. The update can be completed through internet banking or by visiting the nearest branch. The bank does not charge any fee for this update.",
+    "q": "Why is the update needed?",
+    "a": "The update is needed to use the new UPI security feature."
+  },
+  {
+    "id": "doc_006_qa_04",
+    "task": "document_qa",
+    "doc_title": "Bank Account Update",
+    "doc": "Customers of River Bank must update their mobile number before using the new UPI security feature. The update can be completed through internet banking or by visiting the nearest branch. The bank does not charge any fee for this update.",
+    "q": "How can the update be completed?",
+    "a": "It can be completed through internet banking or by visiting the nearest branch."
+  },
+  {
+    "id": "doc_006_qa_05",
+    "task": "document_qa",
+    "doc_title": "Bank Account Update",
+    "doc": "Customers of River Bank must update their mobile number before using the new UPI security feature. The update can be completed through internet banking or by visiting the nearest branch. The bank does not charge any fee for this update.",
+    "q": "Is there a fee for the update?",
+    "a": "No, the bank does not charge any fee."
+  },
+  {
+    "id": "doc_007_qa_01",
+    "task": "document_qa",
+    "doc_title": "Fitness Plan",
+    "doc": "A beginner fitness plan should include warm-up, strength training, cardio, stretching, and rest days. Beginners should train three to four days per week. Drinking enough water and sleeping well improve recovery.",
+    "q": "What should a beginner fitness plan include?",
+    "a": "It should include warm-up, strength training, cardio, stretching, and rest days."
+  },
+  {
+    "id": "doc_007_qa_02",
+    "task": "document_qa",
+    "doc_title": "Fitness Plan",
+    "doc": "A beginner fitness plan should include warm-up, strength training, cardio, stretching, and rest days. Beginners should train three to four days per week. Drinking enough water and sleeping well improve recovery.",
+    "q": "How many days should beginners train per week?",
+    "a": "Beginners should train three to four days per week."
+  },
+  {
+    "id": "doc_007_qa_03",
+    "task": "document_qa",
+    "doc_title": "Fitness Plan",
+    "doc": "A beginner fitness plan should include warm-up, strength training, cardio, stretching, and rest days. Beginners should train three to four days per week. Drinking enough water and sleeping well improve recovery.",
+    "q": "What improves recovery?",
+    "a": "Drinking enough water and sleeping well improve recovery."
+  },
+  {
+    "id": "doc_007_qa_04",
+    "task": "document_qa",
+    "doc_title": "Fitness Plan",
+    "doc": "A beginner fitness plan should include warm-up, strength training, cardio, stretching, and rest days. Beginners should train three to four days per week. Drinking enough water and sleeping well improve recovery.",
+    "q": "Is stretching part of the plan?",
+    "a": "Yes, stretching is part of the plan."
+  },
+  {
+    "id": "doc_007_qa_05",
+    "task": "document_qa",
+    "doc_title": "Fitness Plan",
+    "doc": "A beginner fitness plan should include warm-up, strength training, cardio, stretching, and rest days. Beginners should train three to four days per week. Drinking enough water and sleeping well improve recovery.",
+    "q": "Who is this plan for?",
+    "a": "This plan is for beginners."
+  },
+  {
+    "id": "doc_008_qa_01",
+    "task": "document_qa",
+    "doc_title": "Ooty Travel Guide",
+    "doc": "Ooty is a hill station in Tamil Nadu known for tea gardens, cool weather, a botanical garden, and a lake. Tourists often visit between October and June. The mountain train is one of the popular attractions.",
+    "q": "Where is Ooty located?",
+    "a": "Ooty is located in Tamil Nadu."
+  },
+  {
+    "id": "doc_008_qa_02",
+    "task": "document_qa",
+    "doc_title": "Ooty Travel Guide",
+    "doc": "Ooty is a hill station in Tamil Nadu known for tea gardens, cool weather, a botanical garden, and a lake. Tourists often visit between October and June. The mountain train is one of the popular attractions.",
+    "q": "What is Ooty known for?",
+    "a": "Ooty is known for tea gardens, cool weather, a botanical garden, and a lake."
+  },
+  {
+    "id": "doc_008_qa_03",
+    "task": "document_qa",
+    "doc_title": "Ooty Travel Guide",
+    "doc": "Ooty is a hill station in Tamil Nadu known for tea gardens, cool weather, a botanical garden, and a lake. Tourists often visit between October and June. The mountain train is one of the popular attractions.",
+    "q": "When do tourists often visit Ooty?",
+    "a": "Tourists often visit between October and June."
+  },
+  {
+    "id": "doc_008_qa_04",
+    "task": "document_qa",
+    "doc_title": "Ooty Travel Guide",
+    "doc": "Ooty is a hill station in Tamil Nadu known for tea gardens, cool weather, a botanical garden, and a lake. Tourists often visit between October and June. The mountain train is one of the popular attractions.",
+    "q": "What is one popular attraction?",
+    "a": "The mountain train is one popular attraction."
+  },
+  {
+    "id": "doc_008_qa_05",
+    "task": "document_qa",
+    "doc_title": "Ooty Travel Guide",
+    "doc": "Ooty is a hill station in Tamil Nadu known for tea gardens, cool weather, a botanical garden, and a lake. Tourists often visit between October and June. The mountain train is one of the popular attractions.",
+    "q": "Is Ooty described as a hill station?",
+    "a": "Yes, Ooty is described as a hill station."
+  },
+  {
+    "id": "doc_009_qa_01",
+    "task": "document_qa",
+    "doc_title": "College Placement Session",
+    "doc": "The placement cell will conduct a resume-building session on Wednesday at 2 PM in Lab 3. Final-year students must bring printed resumes and ID cards. The session includes resume review and mock interview practice.",
+    "q": "Who will conduct the session?",
+    "a": "The placement cell will conduct the session."
+  },
+  {
+    "id": "doc_009_qa_02",
+    "task": "document_qa",
+    "doc_title": "College Placement Session",
+    "doc": "The placement cell will conduct a resume-building session on Wednesday at 2 PM in Lab 3. Final-year students must bring printed resumes and ID cards. The session includes resume review and mock interview practice.",
+    "q": "What is the session about?",
+    "a": "The session is about resume building."
+  },
+  {
+    "id": "doc_009_qa_03",
+    "task": "document_qa",
+    "doc_title": "College Placement Session",
+    "doc": "The placement cell will conduct a resume-building session on Wednesday at 2 PM in Lab 3. Final-year students must bring printed resumes and ID cards. The session includes resume review and mock interview practice.",
+    "q": "When will the session happen?",
+    "a": "The session will happen on Wednesday at 2 PM."
+  },
+  {
+    "id": "doc_009_qa_04",
+    "task": "document_qa",
+    "doc_title": "College Placement Session",
+    "doc": "The placement cell will conduct a resume-building session on Wednesday at 2 PM in Lab 3. Final-year students must bring printed resumes and ID cards. The session includes resume review and mock interview practice.",
+    "q": "Where will the session happen?",
+    "a": "The session will happen in Lab 3."
+  },
+  {
+    "id": "doc_009_qa_05",
+    "task": "document_qa",
+    "doc_title": "College Placement Session",
+    "doc": "The placement cell will conduct a resume-building session on Wednesday at 2 PM in Lab 3. Final-year students must bring printed resumes and ID cards. The session includes resume review and mock interview practice.",
+    "q": "What should final-year students bring?",
+    "a": "They should bring printed resumes and ID cards."
+  },
+  {
+    "id": "doc_010_qa_01",
+    "task": "document_qa",
+    "doc_title": "Restaurant Menu",
+    "doc": "Fresh Leaf Cafe serves vegetable soup, paneer sandwich, lemon rice, millet dosa, fruit bowl, and fresh orange juice. The cafe opens at 8 AM and closes at 9 PM. Online delivery is available after 11 AM.",
+    "q": "What is the name of the cafe?",
+    "a": "The name of the cafe is Fresh Leaf Cafe."
+  },
+  {
+    "id": "doc_010_qa_02",
+    "task": "document_qa",
+    "doc_title": "Restaurant Menu",
+    "doc": "Fresh Leaf Cafe serves vegetable soup, paneer sandwich, lemon rice, millet dosa, fruit bowl, and fresh orange juice. The cafe opens at 8 AM and closes at 9 PM. Online delivery is available after 11 AM.",
+    "q": "Name two food items served at the cafe.",
+    "a": "Vegetable soup and paneer sandwich are served at the cafe."
+  },
+  {
+    "id": "doc_010_qa_03",
+    "task": "document_qa",
+    "doc_title": "Restaurant Menu",
+    "doc": "Fresh Leaf Cafe serves vegetable soup, paneer sandwich, lemon rice, millet dosa, fruit bowl, and fresh orange juice. The cafe opens at 8 AM and closes at 9 PM. Online delivery is available after 11 AM.",
+    "q": "When does the cafe open?",
+    "a": "The cafe opens at 8 AM."
+  },
+  {
+    "id": "doc_010_qa_04",
+    "task": "document_qa",
+    "doc_title": "Restaurant Menu",
+    "doc": "Fresh Leaf Cafe serves vegetable soup, paneer sandwich, lemon rice, millet dosa, fruit bowl, and fresh orange juice. The cafe opens at 8 AM and closes at 9 PM. Online delivery is available after 11 AM.",
+    "q": "When does the cafe close?",
+    "a": "The cafe closes at 9 PM."
+  },
+  {
+    "id": "doc_010_qa_05",
+    "task": "document_qa",
+    "doc_title": "Restaurant Menu",
+    "doc": "Fresh Leaf Cafe serves vegetable soup, paneer sandwich, lemon rice, millet dosa, fruit bowl, and fresh orange juice. The cafe opens at 8 AM and closes at 9 PM. Online delivery is available after 11 AM.",
+    "q": "When is online delivery available?",
+    "a": "Online delivery is available after 11 AM."
+  },
+  {
+    "id": "doc_011_qa_01",
+    "task": "document_qa",
+    "doc_title": "Data Analyst Project",
+    "doc": "The sales analysis project uses Excel, SQL, and Power BI to study monthly revenue, top-selling products, customer segments, and regional performance. The dashboard includes filters for month, region, and product category.",
+    "q": "Which tools are used in the sales analysis project?",
+    "a": "Excel, SQL, and Power BI are used."
+  },
+  {
+    "id": "doc_011_qa_02",
+    "task": "document_qa",
+    "doc_title": "Data Analyst Project",
+    "doc": "The sales analysis project uses Excel, SQL, and Power BI to study monthly revenue, top-selling products, customer segments, and regional performance. The dashboard includes filters for month, region, and product category.",
+    "q": "What does the project study?",
+    "a": "It studies monthly revenue, top-selling products, customer segments, and regional performance."
+  },
+  {
+    "id": "doc_011_qa_03",
+    "task": "document_qa",
+    "doc_title": "Data Analyst Project",
+    "doc": "The sales analysis project uses Excel, SQL, and Power BI to study monthly revenue, top-selling products, customer segments, and regional performance. The dashboard includes filters for month, region, and product category.",
+    "q": "What filters are included in the dashboard?",
+    "a": "The dashboard includes filters for month, region, and product category."
+  },
+  {
+    "id": "doc_011_qa_04",
+    "task": "document_qa",
+    "doc_title": "Data Analyst Project",
+    "doc": "The sales analysis project uses Excel, SQL, and Power BI to study monthly revenue, top-selling products, customer segments, and regional performance. The dashboard includes filters for month, region, and product category.",
+    "q": "Does the project include regional performance?",
+    "a": "Yes, it includes regional performance."
+  },
+  {
+    "id": "doc_011_qa_05",
+    "task": "document_qa",
+    "doc_title": "Data Analyst Project",
+    "doc": "The sales analysis project uses Excel, SQL, and Power BI to study monthly revenue, top-selling products, customer segments, and regional performance. The dashboard includes filters for month, region, and product category.",
+    "q": "What type of project is described?",
+    "a": "A sales analysis project is described."
+  },
+  {
+    "id": "doc_012_qa_01",
+    "task": "document_qa",
+    "doc_title": "Smart Bottle Manual",
+    "doc": "The AquaTrack bottle has a stainless steel body, a 750 ml capacity, a leak-proof lid, and a temperature display. It can keep water cold for twelve hours. The bottle should not be placed inside a microwave.",
+    "q": "What is the bottle name?",
+    "a": "The bottle name is AquaTrack."
+  },
+  {
+    "id": "doc_012_qa_02",
+    "task": "document_qa",
+    "doc_title": "Smart Bottle Manual",
+    "doc": "The AquaTrack bottle has a stainless steel body, a 750 ml capacity, a leak-proof lid, and a temperature display. It can keep water cold for twelve hours. The bottle should not be placed inside a microwave.",
+    "q": "What is the bottle capacity?",
+    "a": "The bottle capacity is 750 ml."
+  },
+  {
+    "id": "doc_012_qa_03",
+    "task": "document_qa",
+    "doc_title": "Smart Bottle Manual",
+    "doc": "The AquaTrack bottle has a stainless steel body, a 750 ml capacity, a leak-proof lid, and a temperature display. It can keep water cold for twelve hours. The bottle should not be placed inside a microwave.",
+    "q": "What type of body does the bottle have?",
+    "a": "It has a stainless steel body."
+  },
+  {
+    "id": "doc_012_qa_04",
+    "task": "document_qa",
+    "doc_title": "Smart Bottle Manual",
+    "doc": "The AquaTrack bottle has a stainless steel body, a 750 ml capacity, a leak-proof lid, and a temperature display. It can keep water cold for twelve hours. The bottle should not be placed inside a microwave.",
+    "q": "How long can it keep water cold?",
+    "a": "It can keep water cold for twelve hours."
+  },
+  {
+    "id": "doc_012_qa_05",
+    "task": "document_qa",
+    "doc_title": "Smart Bottle Manual",
+    "doc": "The AquaTrack bottle has a stainless steel body, a 750 ml capacity, a leak-proof lid, and a temperature display. It can keep water cold for twelve hours. The bottle should not be placed inside a microwave.",
+    "q": "Where should the bottle not be placed?",
+    "a": "The bottle should not be placed inside a microwave."
+  },
+  {
+    "id": "doc_013_qa_01",
+    "task": "document_qa",
+    "doc_title": "Clinic Appointment Policy",
+    "doc": "Sunrise Clinic accepts appointments from 9 AM to 5 PM on weekdays. Patients must arrive ten minutes before their scheduled time. Emergency cases are handled without prior appointment.",
+    "q": "What is the clinic name?",
+    "a": "The clinic name is Sunrise Clinic."
+  },
+  {
+    "id": "doc_013_qa_02",
+    "task": "document_qa",
+    "doc_title": "Clinic Appointment Policy",
+    "doc": "Sunrise Clinic accepts appointments from 9 AM to 5 PM on weekdays. Patients must arrive ten minutes before their scheduled time. Emergency cases are handled without prior appointment.",
+    "q": "When does the clinic accept appointments?",
+    "a": "The clinic accepts appointments from 9 AM to 5 PM on weekdays."
+  },
+  {
+    "id": "doc_013_qa_03",
+    "task": "document_qa",
+    "doc_title": "Clinic Appointment Policy",
+    "doc": "Sunrise Clinic accepts appointments from 9 AM to 5 PM on weekdays. Patients must arrive ten minutes before their scheduled time. Emergency cases are handled without prior appointment.",
+    "q": "When should patients arrive?",
+    "a": "Patients should arrive ten minutes before their scheduled time."
+  },
+  {
+    "id": "doc_013_qa_04",
+    "task": "document_qa",
+    "doc_title": "Clinic Appointment Policy",
+    "doc": "Sunrise Clinic accepts appointments from 9 AM to 5 PM on weekdays. Patients must arrive ten minutes before their scheduled time. Emergency cases are handled without prior appointment.",
+    "q": "Are emergency cases accepted without appointment?",
+    "a": "Yes, emergency cases are handled without prior appointment."
+  },
+  {
+    "id": "doc_013_qa_05",
+    "task": "document_qa",
+    "doc_title": "Clinic Appointment Policy",
+    "doc": "Sunrise Clinic accepts appointments from 9 AM to 5 PM on weekdays. Patients must arrive ten minutes before their scheduled time. Emergency cases are handled without prior appointment.",
+    "q": "Does the policy mention weekends?",
+    "a": "Not mentioned in the document."
+  },
+  {
+    "id": "doc_014_qa_01",
+    "task": "document_qa",
+    "doc_title": "Online Class Schedule",
+    "doc": "The online Java class starts every evening at 7 PM. Students must complete the practice task before the next session. Recordings are shared only with students who attend the live class.",
+    "q": "What subject is taught online?",
+    "a": "Java is taught online."
+  },
+  {
+    "id": "doc_014_qa_02",
+    "task": "document_qa",
+    "doc_title": "Online Class Schedule",
+    "doc": "The online Java class starts every evening at 7 PM. Students must complete the practice task before the next session. Recordings are shared only with students who attend the live class.",
+    "q": "When does the class start?",
+    "a": "The class starts every evening at 7 PM."
+  },
+  {
+    "id": "doc_014_qa_03",
+    "task": "document_qa",
+    "doc_title": "Online Class Schedule",
+    "doc": "The online Java class starts every evening at 7 PM. Students must complete the practice task before the next session. Recordings are shared only with students who attend the live class.",
+    "q": "What must students complete?",
+    "a": "Students must complete the practice task before the next session."
+  },
+  {
+    "id": "doc_014_qa_04",
+    "task": "document_qa",
+    "doc_title": "Online Class Schedule",
+    "doc": "The online Java class starts every evening at 7 PM. Students must complete the practice task before the next session. Recordings are shared only with students who attend the live class.",
+    "q": "Who receives the recordings?",
+    "a": "Recordings are shared only with students who attend the live class."
+  },
+  {
+    "id": "doc_014_qa_05",
+    "task": "document_qa",
+    "doc_title": "Online Class Schedule",
+    "doc": "The online Java class starts every evening at 7 PM. Students must complete the practice task before the next session. Recordings are shared only with students who attend the live class.",
+    "q": "Is the class in the morning?",
+    "a": "Not mentioned in the document."
+  },
+  {
+    "id": "doc_015_qa_01",
+    "task": "document_qa",
+    "doc_title": "Cloud Backup Policy",
+    "doc": "The company backup policy requires all project files to be uploaded to secure cloud storage every evening. Access is restricted to authorized team members. Deleted files are retained for thirty days.",
+    "q": "What should be uploaded to cloud storage?",
+    "a": "All project files should be uploaded to secure cloud storage."
+  },
+  {
+    "id": "doc_015_qa_02",
+    "task": "document_qa",
+    "doc_title": "Cloud Backup Policy",
+    "doc": "The company backup policy requires all project files to be uploaded to secure cloud storage every evening. Access is restricted to authorized team members. Deleted files are retained for thirty days.",
+    "q": "When should files be backed up?",
+    "a": "Files should be backed up every evening."
+  },
+  {
+    "id": "doc_015_qa_03",
+    "task": "document_qa",
+    "doc_title": "Cloud Backup Policy",
+    "doc": "The company backup policy requires all project files to be uploaded to secure cloud storage every evening. Access is restricted to authorized team members. Deleted files are retained for thirty days.",
+    "q": "Who can access the files?",
+    "a": "Only authorized team members can access the files."
+  },
+  {
+    "id": "doc_015_qa_04",
+    "task": "document_qa",
+    "doc_title": "Cloud Backup Policy",
+    "doc": "The company backup policy requires all project files to be uploaded to secure cloud storage every evening. Access is restricted to authorized team members. Deleted files are retained for thirty days.",
+    "q": "How long are deleted files retained?",
+    "a": "Deleted files are retained for thirty days."
+  },
+  {
+    "id": "doc_015_qa_05",
+    "task": "document_qa",
+    "doc_title": "Cloud Backup Policy",
+    "doc": "The company backup policy requires all project files to be uploaded to secure cloud storage every evening. Access is restricted to authorized team members. Deleted files are retained for thirty days.",
+    "q": "What kind of storage is mentioned?",
+    "a": "Secure cloud storage is mentioned."
+  },
+  {
+    "id": "doc_016_qa_01",
+    "task": "document_qa",
+    "doc_title": "Bus Pass Rules",
+    "doc": "Students can apply for a monthly bus pass by submitting a college ID copy, address proof, and one passport-size photo. The pass is valid only on the selected route and cannot be transferred to another person.",
+    "q": "Who can apply for the bus pass?",
+    "a": "Students can apply for the bus pass."
+  },
+  {
+    "id": "doc_016_qa_02",
+    "task": "document_qa",
+    "doc_title": "Bus Pass Rules",
+    "doc": "Students can apply for a monthly bus pass by submitting a college ID copy, address proof, and one passport-size photo. The pass is valid only on the selected route and cannot be transferred to another person.",
+    "q": "What documents are required?",
+    "a": "A college ID copy, address proof, and one passport-size photo are required."
+  },
+  {
+    "id": "doc_016_qa_03",
+    "task": "document_qa",
+    "doc_title": "Bus Pass Rules",
+    "doc": "Students can apply for a monthly bus pass by submitting a college ID copy, address proof, and one passport-size photo. The pass is valid only on the selected route and cannot be transferred to another person.",
+    "q": "How long is the pass type mentioned?",
+    "a": "A monthly bus pass is mentioned."
+  },
+  {
+    "id": "doc_016_qa_04",
+    "task": "document_qa",
+    "doc_title": "Bus Pass Rules",
+    "doc": "Students can apply for a monthly bus pass by submitting a college ID copy, address proof, and one passport-size photo. The pass is valid only on the selected route and cannot be transferred to another person.",
+    "q": "Where is the pass valid?",
+    "a": "The pass is valid only on the selected route."
+  },
+  {
+    "id": "doc_016_qa_05",
+    "task": "document_qa",
+    "doc_title": "Bus Pass Rules",
+    "doc": "Students can apply for a monthly bus pass by submitting a college ID copy, address proof, and one passport-size photo. The pass is valid only on the selected route and cannot be transferred to another person.",
+    "q": "Can the pass be transferred?",
+    "a": "No, it cannot be transferred to another person."
+  },
+  {
+    "id": "doc_017_qa_01",
+    "task": "document_qa",
+    "doc_title": "Laptop Service Note",
+    "doc": "TechCare Service Center repairs laptops, replaces batteries, upgrades RAM, and installs operating systems. Customers must back up personal files before submitting a device. Service status is sent through SMS.",
+    "q": "What is the service center name?",
+    "a": "The service center name is TechCare Service Center."
+  },
+  {
+    "id": "doc_017_qa_02",
+    "task": "document_qa",
+    "doc_title": "Laptop Service Note",
+    "doc": "TechCare Service Center repairs laptops, replaces batteries, upgrades RAM, and installs operating systems. Customers must back up personal files before submitting a device. Service status is sent through SMS.",
+    "q": "What services are provided?",
+    "a": "It repairs laptops, replaces batteries, upgrades RAM, and installs operating systems."
+  },
+  {
+    "id": "doc_017_qa_03",
+    "task": "document_qa",
+    "doc_title": "Laptop Service Note",
+    "doc": "TechCare Service Center repairs laptops, replaces batteries, upgrades RAM, and installs operating systems. Customers must back up personal files before submitting a device. Service status is sent through SMS.",
+    "q": "What should customers do before submitting a device?",
+    "a": "Customers should back up personal files."
+  },
+  {
+    "id": "doc_017_qa_04",
+    "task": "document_qa",
+    "doc_title": "Laptop Service Note",
+    "doc": "TechCare Service Center repairs laptops, replaces batteries, upgrades RAM, and installs operating systems. Customers must back up personal files before submitting a device. Service status is sent through SMS.",
+    "q": "How is service status sent?",
+    "a": "Service status is sent through SMS."
+  },
+  {
+    "id": "doc_017_qa_05",
+    "task": "document_qa",
+    "doc_title": "Laptop Service Note",
+    "doc": "TechCare Service Center repairs laptops, replaces batteries, upgrades RAM, and installs operating systems. Customers must back up personal files before submitting a device. Service status is sent through SMS.",
+    "q": "Does the center repair mobile phones?",
+    "a": "Not mentioned in the document."
+  },
+  {
+    "id": "doc_018_qa_01",
+    "task": "document_qa",
+    "doc_title": "Exam Hall Instructions",
+    "doc": "Students must enter the exam hall thirty minutes before the exam starts. Mobile phones, smart watches, and printed notes are not allowed. Only pens, hall tickets, and transparent water bottles are permitted.",
+    "q": "When should students enter the exam hall?",
+    "a": "Students should enter thirty minutes before the exam starts."
+  },
+  {
+    "id": "doc_018_qa_02",
+    "task": "document_qa",
+    "doc_title": "Exam Hall Instructions",
+    "doc": "Students must enter the exam hall thirty minutes before the exam starts. Mobile phones, smart watches, and printed notes are not allowed. Only pens, hall tickets, and transparent water bottles are permitted.",
+    "q": "Which items are not allowed?",
+    "a": "Mobile phones, smart watches, and printed notes are not allowed."
+  },
+  {
+    "id": "doc_018_qa_03",
+    "task": "document_qa",
+    "doc_title": "Exam Hall Instructions",
+    "doc": "Students must enter the exam hall thirty minutes before the exam starts. Mobile phones, smart watches, and printed notes are not allowed. Only pens, hall tickets, and transparent water bottles are permitted.",
+    "q": "Which items are permitted?",
+    "a": "Pens, hall tickets, and transparent water bottles are permitted."
+  },
+  {
+    "id": "doc_018_qa_04",
+    "task": "document_qa",
+    "doc_title": "Exam Hall Instructions",
+    "doc": "Students must enter the exam hall thirty minutes before the exam starts. Mobile phones, smart watches, and printed notes are not allowed. Only pens, hall tickets, and transparent water bottles are permitted.",
+    "q": "Are smart watches allowed?",
+    "a": "No, smart watches are not allowed."
+  },
+  {
+    "id": "doc_018_qa_05",
+    "task": "document_qa",
+    "doc_title": "Exam Hall Instructions",
+    "doc": "Students must enter the exam hall thirty minutes before the exam starts. Mobile phones, smart watches, and printed notes are not allowed. Only pens, hall tickets, and transparent water bottles are permitted.",
+    "q": "Does the instruction mention calculators?",
+    "a": "Not mentioned in the document."
+  },
+  {
+    "id": "doc_019_qa_01",
+    "task": "document_qa",
+    "doc_title": "Garden Maintenance",
+    "doc": "The apartment garden is watered every morning at 6 AM. Residents are requested not to pluck flowers or leave plastic waste near the plants. Compost bins are placed near the east gate.",
+    "q": "When is the garden watered?",
+    "a": "The garden is watered every morning at 6 AM."
+  },
+  {
+    "id": "doc_019_qa_02",
+    "task": "document_qa",
+    "doc_title": "Garden Maintenance",
+    "doc": "The apartment garden is watered every morning at 6 AM. Residents are requested not to pluck flowers or leave plastic waste near the plants. Compost bins are placed near the east gate.",
+    "q": "What should residents avoid?",
+    "a": "Residents should not pluck flowers or leave plastic waste near the plants."
+  },
+  {
+    "id": "doc_019_qa_03",
+    "task": "document_qa",
+    "doc_title": "Garden Maintenance",
+    "doc": "The apartment garden is watered every morning at 6 AM. Residents are requested not to pluck flowers or leave plastic waste near the plants. Compost bins are placed near the east gate.",
+    "q": "Where are compost bins placed?",
+    "a": "Compost bins are placed near the east gate."
+  },
+  {
+    "id": "doc_019_qa_04",
+    "task": "document_qa",
+    "doc_title": "Garden Maintenance",
+    "doc": "The apartment garden is watered every morning at 6 AM. Residents are requested not to pluck flowers or leave plastic waste near the plants. Compost bins are placed near the east gate.",
+    "q": "Is plastic waste allowed near plants?",
+    "a": "No, plastic waste should not be left near the plants."
+  },
+  {
+    "id": "doc_019_qa_05",
+    "task": "document_qa",
+    "doc_title": "Garden Maintenance",
+    "doc": "The apartment garden is watered every morning at 6 AM. Residents are requested not to pluck flowers or leave plastic waste near the plants. Compost bins are placed near the east gate.",
+    "q": "What location is mentioned for compost bins?",
+    "a": "The east gate is mentioned."
+  },
+  {
+    "id": "doc_020_qa_01",
+    "task": "document_qa",
+    "doc_title": "Basic Cyber Safety",
+    "doc": "Users should create strong passwords with letters, numbers, and symbols. Passwords should not be shared through chat or email. Two-factor authentication adds an extra layer of security.",
+    "q": "What should strong passwords contain?",
+    "a": "Strong passwords should contain letters, numbers, and symbols."
+  },
+  {
+    "id": "doc_020_qa_02",
+    "task": "document_qa",
+    "doc_title": "Basic Cyber Safety",
+    "doc": "Users should create strong passwords with letters, numbers, and symbols. Passwords should not be shared through chat or email. Two-factor authentication adds an extra layer of security.",
+    "q": "Where should passwords not be shared?",
+    "a": "Passwords should not be shared through chat or email."
+  },
+  {
+    "id": "doc_020_qa_03",
+    "task": "document_qa",
+    "doc_title": "Basic Cyber Safety",
+    "doc": "Users should create strong passwords with letters, numbers, and symbols. Passwords should not be shared through chat or email. Two-factor authentication adds an extra layer of security.",
+    "q": "What adds an extra layer of security?",
+    "a": "Two-factor authentication adds an extra layer of security."
+  },
+  {
+    "id": "doc_020_qa_04",
+    "task": "document_qa",
+    "doc_title": "Basic Cyber Safety",
+    "doc": "Users should create strong passwords with letters, numbers, and symbols. Passwords should not be shared through chat or email. Two-factor authentication adds an extra layer of security.",
+    "q": "Is email sharing of passwords recommended?",
+    "a": "No, passwords should not be shared through email."
+  },
+  {
+    "id": "doc_020_qa_05",
+    "task": "document_qa",
+    "doc_title": "Basic Cyber Safety",
+    "doc": "Users should create strong passwords with letters, numbers, and symbols. Passwords should not be shared through chat or email. Two-factor authentication adds an extra layer of security.",
+    "q": "What is the topic of the document?",
+    "a": "The topic is basic cyber safety."
+  }
+]
